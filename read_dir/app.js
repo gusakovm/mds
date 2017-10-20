@@ -1,3 +1,5 @@
-let logs = require('./lib/logfile');
+// let logs = require('./lib/logfile');
 
-logs.add("hgfds7");
+let logs = require('./lib/multilogfile');
+
+logs.add("hgfds82");
